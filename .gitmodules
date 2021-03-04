@@ -1,0 +1,4 @@
+[submodule "coinsamatik"]
+	path = coinsamatik
+	url = git@git.vauxoo.com:vauxoo/coinsamatik.git
+	branch = 13.0
