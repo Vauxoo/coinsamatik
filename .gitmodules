@@ -98,3 +98,7 @@
 	path = l10n-mx-reports-diot
 	url = git@git.vauxoo.com:mexico/l10n-mx-reports-diot.git
 	branch = 16.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:Vauxoo/sale-workflow.git
+	branch = 16.0
