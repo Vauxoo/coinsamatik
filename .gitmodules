@@ -102,3 +102,8 @@
 	path = sale-workflow
 	url = git@github.com:Vauxoo/sale-workflow.git
 	branch = 16.0
+
+[submodule "OCA/account-invoice-reporting"]
+	path = OCA/account-invoice-reporting
+	url = git@github.com:OCA/account-invoice-reporting.git
+	branch = 16.0
