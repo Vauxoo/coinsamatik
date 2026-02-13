@@ -107,3 +107,7 @@
 	path = OCA/account-invoice-reporting
 	url = git@github.com:OCA/account-invoice-reporting.git
 	branch = 16.0
+[submodule "account-customer-invoice-split-discount"]
+	path = account-customer-invoice-split-discount
+	url = git@git.vauxoo.com:vauxoo/account-customer-invoice-split-discount.git
+	branch = 16.0
