@@ -1,2 +1,2 @@
-# Coinsamatik
+# Coinsamatik.
 coinsamatik customer
