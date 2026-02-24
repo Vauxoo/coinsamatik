@@ -1,2 +1,2 @@
 # Coinsamatik.
-coinsamatik customer
+coinsamatik customer.
